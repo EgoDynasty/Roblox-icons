@@ -1,0 +1,517 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Bronze 1 -> Frostbound",
+      "replace_ids": [
+        106623367501544
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ranks/bronze_1.png"
+    },
+    {
+      "name": "Silver 3 -> Frostbound",
+      "replace_ids": [
+        107898816876115
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ranks/silver_3.png"
+    },
+    {
+      "name": "Diamond 3 -> Frostbound",
+      "replace_ids": [
+        112183171942172
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ranks/diamond_3.png"
+    },
+    {
+      "name": "Diamond 1 -> Frostbound",
+      "replace_ids": [
+        113997689031026
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ranks/diamond_1.png"
+    },
+    {
+      "name": "Gold 2 -> Frostbound",
+      "replace_ids": [
+        114166096331502
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ranks/gold_2.png"
+    },
+    {
+      "name": "Nemesis -> Frostbound",
+      "replace_ids": [
+        116941545385923
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ranks/nemesis.png"
+    },
+    {
+      "name": "Bronze 2 -> Frostbound",
+      "replace_ids": [
+        131795064007344
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ranks/bronze_2.png"
+    },
+    {
+      "name": "Archnemesis -> Frostbound",
+      "replace_ids": [
+        133793956251748
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ranks/archnemesis.png"
+    },
+    {
+      "name": "Platinum 1 -> Frostbound",
+      "replace_ids": [
+        133903971285645
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ranks/platinum_1.png"
+    },
+    {
+      "name": "Gold 1 -> Frostbound",
+      "replace_ids": [
+        134520747948636
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ranks/gold_1.png"
+    },
+    {
+      "name": "Silver 2 -> Frostbound",
+      "replace_ids": [
+        136100661820261
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ranks/silver_2.png"
+    },
+    {
+      "name": "UI Diamond Hands -> Frostbound",
+      "replace_ids": [
+        14632127990
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ranks/diamond_hands.png"
+    },
+    {
+      "name": "Platinum 3 -> Frostbound",
+      "replace_ids": [
+        73345783863790
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ranks/platinum_3.png"
+    },
+    {
+      "name": "Bronze 3 -> Frostbound",
+      "replace_ids": [
+        73543520622815
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ranks/bronze_3.png"
+    },
+    {
+      "name": "Silver 1 -> Frostbound",
+      "replace_ids": [
+        80716950169934
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ranks/silver_1.png"
+    },
+    {
+      "name": "Platinum 2 -> Frostbound",
+      "replace_ids": [
+        82834564754747
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ranks/platinum_2.png"
+    },
+    {
+      "name": "Diamond 2 -> Frostbound",
+      "replace_ids": [
+        88059506918419
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ranks/diamond_2.png"
+    },
+    {
+      "name": "Gold 3 -> Frostbound",
+      "replace_ids": [
+        90039594400813
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ranks/gold_3.png"
+    },
+    {
+      "name": "Onyx 1 -> Frostbound",
+      "replace_ids": [
+        104871954739030
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/onyx_1.png"
+    },
+    {
+      "name": "Close Icon -> Frostbound",
+      "replace_ids": [
+        108220438104376
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/close_icon.png"
+    },
+    {
+      "name": "Onyx 2 -> Frostbound",
+      "replace_ids": [
+        109012386782238
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/onyx_2.png"
+    },
+    {
+      "name": "UI recovery -> Frostbound",
+      "replace_ids": [
+        112615701583145
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/recovery.png"
+    },
+    {
+      "name": "UI right -> Frostbound",
+      "replace_ids": [
+        113844621753627
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/right.png"
+    },
+    {
+      "name": "Loading Bandoboy -> Frostbound",
+      "replace_ids": [
+        121503061771505
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/loading_bandoboy.png"
+    },
+    {
+      "name": "UI servers -> Frostbound",
+      "replace_ids": [
+        12343093905
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/servers.png"
+    },
+    {
+      "name": "UI killfeed -> Frostbound",
+      "replace_ids": [
+        126928245743331
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/killfeed.png"
+    },
+    {
+      "name": "Onyx 3 -> Frostbound",
+      "replace_ids": [
+        127982903682334
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/onyx_3.png"
+    },
+    {
+      "name": "Loading Chicken -> Frostbound",
+      "replace_ids": [
+        133917828562858
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/loading_chicken.png"
+    },
+    {
+      "name": "UI region -> Frostbound",
+      "replace_ids": [
+        135846354277966
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/region.png"
+    },
+    {
+      "name": "UI save -> Frostbound",
+      "replace_ids": [
+        13733474711
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/save.png"
+    },
+    {
+      "name": "Cog Icon -> Frostbound",
+      "replace_ids": [
+        14641612286
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/cog_icon.png"
+    },
+    {
+      "name": "Streak -> Frostbound",
+      "replace_ids": [
+        17094014569
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/streak.png"
+    },
+    {
+      "name": "Assault Rifle -> Frostbound",
+      "replace_ids": [
+        17160682738
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/assault_rifle_256.png"
+    },
+    {
+      "name": "Sniper -> Frostbound",
+      "replace_ids": [
+        17160799574
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/sniper_256.png"
+    },
+    {
+      "name": "Katana -> Frostbound",
+      "replace_ids": [
+        17160801158
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/katana_256.png"
+    },
+    {
+      "name": "Streak -> Frostbound",
+      "replace_ids": [
+        17175092502
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/streak_2.png"
+    },
+    {
+      "name": "UI lock -> Frostbound",
+      "replace_ids": [
+        17229230506
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/lock.png"
+    },
+    {
+      "name": "UI exit -> Frostbound",
+      "replace_ids": [
+        17498605048
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/exit.png"
+    },
+    {
+      "name": "UI left -> Frostbound",
+      "replace_ids": [
+        17562685319
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/left.png"
+    },
+    {
+      "name": "UI scroll -> Frostbound",
+      "replace_ids": [
+        17619445009
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/scroll.png"
+    },
+    {
+      "name": "Cog Icon -> Frostbound",
+      "replace_ids": [
+        17619445191
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/cog_icon_2.png"
+    },
+    {
+      "name": "Shop Icon -> Frostbound",
+      "replace_ids": [
+        17619445340
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/shop_icon.png"
+    },
+    {
+      "name": "UI tasks -> Frostbound",
+      "replace_ids": [
+        17653923757
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/tasks.png"
+    },
+    {
+      "name": "UI teammate -> Frostbound",
+      "replace_ids": [
+        17704137194
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/teammate.png"
+    },
+    {
+      "name": "UI task done -> Frostbound",
+      "replace_ids": [
+        17772690718
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/task_done.png"
+    },
+    {
+      "name": "Close Icon -> Frostbound",
+      "replace_ids": [
+        17838290166
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/close_icon_2.png"
+    },
+    {
+      "name": "UI plus -> Frostbound",
+      "replace_ids": [
+        17838317115
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/plus.png"
+    },
+    {
+      "name": "UI key -> Frostbound",
+      "replace_ids": [
+        17860673529
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/key.png"
+    },
+    {
+      "name": "UI backpack -> Frostbound",
+      "replace_ids": [
+        18185474596
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/backpack.png"
+    },
+    {
+      "name": "UI book -> Frostbound",
+      "replace_ids": [
+        18457336026
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/book.png"
+    },
+    {
+      "name": "UI duels -> Frostbound",
+      "replace_ids": [
+        18525954682
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/duels.png"
+    },
+    {
+      "name": "UI spectate -> Frostbound",
+      "replace_ids": [
+        77908042044589
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/spectate.png"
+    },
+    {
+      "name": "Level -> Frostbound",
+      "replace_ids": [
+        81461991645938
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/level.png"
+    },
+    {
+      "name": "UI shield -> Frostbound",
+      "replace_ids": [
+        81577092220450
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/shield.png"
+    },
+    {
+      "name": "UI hp -> Frostbound",
+      "replace_ids": [
+        8276600102
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/hp.png"
+    },
+    {
+      "name": "UI rewards -> Frostbound",
+      "replace_ids": [
+        84811629597038
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/rewards.png"
+    },
+    {
+      "name": "UI event -> Frostbound",
+      "replace_ids": [
+        92989711430837
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/frostbound/assets/ui/event.png"
+    }
+  ]
+}
