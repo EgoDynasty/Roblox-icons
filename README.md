@@ -13,6 +13,13 @@ function, silhouette and on-screen footprint, so nothing shifts or rescales in p
 | [Lavaforged](rivals/lavaforged) | 1074 | Volcanic glass shot through with living lava |
 | [Frostbound](rivals/frostbound) | 57 | Glacial ice and frozen steel |
 
+## A note on file counts
+
+Rivals stores most weapon icons twice: a large texture for the weapon card and a
+smaller one for list views, each under its own asset id. Both are replaced, so the
+new art shows up everywhere. Counted as artwork rather than as files, Lavaforged is
+599 designs; counted as replaced assets, it is 1074.
+
 ## Install
 
 1. Open Fleasion

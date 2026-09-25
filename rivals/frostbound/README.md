@@ -6,7 +6,7 @@ rescales in the interface.
 
 ## Visual direction
 
-Glacial ice and frozen steel. Weapons are cut from clear blue ice with frost-etched edges, rank emblems keep their tier colour.
+Glacial ice and frozen steel.
 
 ## Contents
 
