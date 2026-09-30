@@ -7183,15 +7183,6 @@
       "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/lavaforged/assets/ui/finisher_pack_remake.png"
     },
     {
-      "name": "Ui background weapons -> Lavaforged",
-      "replace_ids": [
-        107726936944155
-      ],
-      "enabled": true,
-      "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/lavaforged/assets/ui/background_weapons.png"
-    },
-    {
       "name": "Close Icon -> Lavaforged",
       "replace_ids": [
         108220438104376
@@ -7687,15 +7678,6 @@
       "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/lavaforged/assets/ui/lock.png"
     },
     {
-      "name": "Ui background 2 -> Lavaforged",
-      "replace_ids": [
-        17277885692
-      ],
-      "enabled": true,
-      "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/lavaforged/assets/ui/background_2.png"
-    },
-    {
       "name": "Statistics icon flipped -> Lavaforged",
       "replace_ids": [
         17336063541
@@ -7982,42 +7964,6 @@
       "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/lavaforged/assets/ui/key_bundle.png"
-    },
-    {
-      "name": "Ui background inverted top right -> Lavaforged",
-      "replace_ids": [
-        17899937066
-      ],
-      "enabled": true,
-      "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/lavaforged/assets/ui/background_inverted_top_right.png"
-    },
-    {
-      "name": "Ui background inverted top left -> Lavaforged",
-      "replace_ids": [
-        17899937163
-      ],
-      "enabled": true,
-      "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/lavaforged/assets/ui/background_inverted_top_left.png"
-    },
-    {
-      "name": "Ui background inverted bottom right -> Lavaforged",
-      "replace_ids": [
-        17899937279
-      ],
-      "enabled": true,
-      "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/lavaforged/assets/ui/background_inverted_bottom_right.png"
-    },
-    {
-      "name": "Ui background inverted bottom left -> Lavaforged",
-      "replace_ids": [
-        17899937515
-      ],
-      "enabled": true,
-      "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/lavaforged/assets/ui/background_inverted_bottom_left.png"
     },
     {
       "name": "Unlocked icon2 -> Lavaforged",

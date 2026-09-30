@@ -10,7 +10,7 @@ function, silhouette and on-screen footprint, so nothing shifts or rescales in p
 
 | Pack | Files | What it looks like |
 |---|---|---|
-| [Lavaforged](rivals/lavaforged) | 1159 | Volcanic glass shot through with living lava |
+| [Lavaforged](rivals/lavaforged) | 1153 | Volcanic glass shot through with living lava |
 | [Frostbound](rivals/frostbound) | 57 | Glacial ice and frozen steel |
 
 ## A note on file counts
@@ -18,7 +18,7 @@ function, silhouette and on-screen footprint, so nothing shifts or rescales in p
 Rivals stores most weapon icons twice: a large texture for the weapon card and a
 smaller one for list views, each under its own asset id. Both are replaced, so the
 new art shows up everywhere. Counted as artwork rather than as files, Lavaforged is
-684 designs; counted as replaced assets, it is 1159.
+678 designs; counted as replaced assets, it is 1153.
 
 ## Install
 
