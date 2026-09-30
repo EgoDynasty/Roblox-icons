@@ -1,60 +1,6 @@
 {
   "replacement_rules": [
     {
-      "name": "Item Background -> Lavaforged",
-      "replace_ids": [
-        13188153054
-      ],
-      "enabled": true,
-      "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/lavaforged/assets/backgrounds/item_background.png"
-    },
-    {
-      "name": "Item Background -> Lavaforged",
-      "replace_ids": [
-        13188242287
-      ],
-      "enabled": true,
-      "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/lavaforged/assets/backgrounds/item_background_2.png"
-    },
-    {
-      "name": "Item Background -> Lavaforged",
-      "replace_ids": [
-        13188242420
-      ],
-      "enabled": true,
-      "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/lavaforged/assets/backgrounds/item_background_2_3.png"
-    },
-    {
-      "name": "Item Background -> Lavaforged",
-      "replace_ids": [
-        13220167337
-      ],
-      "enabled": true,
-      "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/lavaforged/assets/backgrounds/item_background_2_3_4.png"
-    },
-    {
-      "name": "Item Background -> Lavaforged",
-      "replace_ids": [
-        13220167472
-      ],
-      "enabled": true,
-      "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/lavaforged/assets/backgrounds/item_background_2_3_4_5.png"
-    },
-    {
-      "name": "Arena preview -> Lavaforged",
-      "replace_ids": [
-        7658055825
-      ],
-      "enabled": true,
-      "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/EgoDynasty/Roblox-icons/main/rivals/lavaforged/assets/backgrounds/arena_preview.png"
-    },
-    {
       "name": "Maul Ice Maul -> Lavaforged",
       "replace_ids": [
         100001888078290
