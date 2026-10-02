@@ -6,14 +6,18 @@ rescales in the interface.
 
 ## Visual direction
 
-Glacial ice and frozen steel.
+Deep glacial ice over a dark core, with pale cyan light caught in the fractures
 
 ## Contents
 
-- 57 replacement rules
-- 57 unique PNG files
-- 39 interface icons
-- 18 rank emblems
+- 729 replacement rules
+- 729 unique PNG files
+- 199 primary weapons
+- 144 secondary weapons
+- 143 gadgets
+- 138 melee weapons
+- 86 interface icons
+- 19 rank emblems
 
 Rank emblems keep their original tier colour dominant, so players recognise their
 rank at a glance. The pack changes icon artwork only; weapon meshes are untouched.
